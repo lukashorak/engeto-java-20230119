@@ -2,6 +2,6 @@
 Testovaci repozitar na ukazku prace s gitem
 
 - Prvni
-- Jeden a pul
+- Stodevadesat procent
 - Druhy
 - Treti
