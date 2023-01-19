@@ -2,7 +2,9 @@
 Testovaci repozitar na ukazku prace s gitem
 
 - Nula
-- 1.25
+- Prvni
+- 1.251
 - Druhy
+- druhý a půl
 - Treti
 - 666
