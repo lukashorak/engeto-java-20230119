@@ -4,4 +4,5 @@ Testovaci repozitar na ukazku prace s gitem
 - Prvni
 - 1.25
 - Druhy
+- druhý a půl
 - Treti
