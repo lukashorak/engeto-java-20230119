@@ -2,6 +2,6 @@
 Testovaci repozitar na ukazku prace s gitem
 
 - Prvni
-- Jeden a ctvrt
+- 1.25
 - Druhy
 - Treti
