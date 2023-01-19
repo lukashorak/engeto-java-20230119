@@ -9,3 +9,4 @@ Testovaci repozitar na ukazku prace s gitem
 - Treti
 - 4.
 - 666
+12
